@@ -4,9 +4,11 @@
 <strong> Me chamo João Vitor Aguilar Molinari. </strong>
 <hr>
 - 👋  Tenho 19 anos;<br>
-- 👀  Atualmente cursando Sistemas para Internet na Anhanguera Educacional;<br>
-- 🌱  Participante do Bootcamp Desenvolvedor Web Java Jr no Instituto Proa em parceria com o Senac;<br>
-- 💞️  Sou proativo, e gosto de solucionar problemas, possuo uma boa comunicação, respeito a todos, e faço um bom trabalho em equipe.<br>
+- 💼  Desenvolvedor Web Java Jr;<br>
+- 🎓  Atualmente cursando Sistemas para Internet na Anhanguera Educacional;<br>
+- 🎓  Participante do Bootcamp Desenvolvedor Web Java Jr no Instituto Proa em parceria com o Senac;<br>
+- 💻  Sou proativo, e gosto de solucionar problemas, possuo uma boa comunicação, respeito a todos, e faço um bom trabalho em equipe.<br>
+- 🚀  Sempre disposto, e em busca de novos desafios e conhecimentos.<br>
 - 📫  Contato: joaomolinari61@gmail.com 
 
 <!---
