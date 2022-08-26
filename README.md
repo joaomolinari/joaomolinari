@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40" height="40"/> 
-<i class="devicon-adonisjs-original colori"> width="40" height="40"</i>
+<i class="devicon-adonisjs-original colori" width="40" height="40"</i>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40" height="40"/>
