@@ -10,7 +10,7 @@
 - 💻  Sou proativo, e gosto de solucionar problemas, possuo uma boa comunicação, respeito a todos, e faço um bom trabalho em equipe.<br>
 - 🚀  Sempre disposto, e em busca de novos desafios e conhecimentos.<br>
 - 📫  Contato: joaomolinari61@gmail.com <br>
-- <hr>
+ <hr>
 
 <!---
 jvmolinari/jvmolinari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
