@@ -17,7 +17,7 @@ jvmolinari/jvmolinari is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <div>
-<a href="https://github.com/jvmolinari">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvmolinari&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvmolinari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/joaomolinari">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomolinari&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomolinari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
