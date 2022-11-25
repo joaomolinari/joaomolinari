@@ -1,9 +1,13 @@
-<strong>SEJA BEM VINDO AO MEU GITHUB!</strong>
+<strong>OLÁ, SEJA BEM VINDO!😄</strong>
 <br>
+<strong>💬 Tenho 19 anos <strong>
 <br>
-<strong> Me chamo João Vitor Aguilar Molinari </strong>
+<strong>💻 Desenvolvedor Java Jr Full Stack - Instituto Proa </strong>
 <br>
-<strong> Tenho 19 anos <strong>
+<strong>💻 Sistemas para Internet - Universidade Anhanguera <strong>
+<br>
+<strong>📚 Sempre atrás de novos cohecimentos <strong>
+ 
 <hr>
 
 <div><a href="https://github.com/joaomolinari"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomolinari&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomolinari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
