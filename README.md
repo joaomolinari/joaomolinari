@@ -1,4 +1,5 @@
-<strong>OLÁ, SEJA BEM VINDO!😄</strong>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chubby+Cheeks&weight=900&size=30&pause=1010&color=7100F7&background=9F00FF00&center=true&multiline=true&width=435&lines=SEJAM+BEM-VINDOS)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Chubby+Cheeks&weight=900&size=30&pause=1010&color=7100F7&background=9F00FF00&center=true&multiline=true&width=435&lines=SEJAM+BEM-VINDOS" alt="Typing SVG" /></a>
 <br>
 <strong>💬 Tenho 19 anos <strong>
 <br>
