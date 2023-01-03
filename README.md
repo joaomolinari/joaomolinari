@@ -6,7 +6,7 @@
 <br>
 <strong>💻 Sistemas para Internet - Universidade Anhanguera <strong>
 <br>
-<strong>📚 Sempre atrás de novos cohecimentos <strong>
+<strong>📚 Sempre buscando novos conhecimentos <strong>
  
 <hr>
 
