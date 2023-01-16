@@ -2,7 +2,7 @@
 <br>
 <strong>💬 Tenho 19 anos <strong>
 <br>
-<strong> E-mail para contato: joaomolinari61@gmail.com
+<strong>💬 E-mail para contato: joaomolinari61@gmail.com
 <br>
 <strong>💻 Desenvolvedor Java Jr Full Stack - Instituto Proa </strong>
 <br>
@@ -11,6 +11,12 @@
 <strong>📚 Sempre em busca de novos conhecimentos <strong>
  
 <hr>
+ 
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <br>
 <br>
