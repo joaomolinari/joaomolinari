@@ -10,7 +10,6 @@
 <br>
 <strong>💬 E-mail para contato: joaomolinari61@gmail.com
 
- 
 <hr>
  
 <div>
