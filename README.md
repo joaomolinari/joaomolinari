@@ -2,7 +2,7 @@
 <br>
 <strong>💬 Tenho 19 anos <strong>
 <br>
-<strong>💻 Desenvolvedor Java Jr Full Stack - Instituto Proa </strong>
+<strong>💻 Desenvolvedor Java Full Stack - Instituto Proa </strong>
 <br>
 <strong>💻 Sistemas para Internet - Universidade Anhanguera <strong>
 <br>
