@@ -2,13 +2,14 @@
 <br>
 <strong>💬 Tenho 19 anos <strong>
 <br>
-<strong>💬 E-mail para contato: joaomolinari61@gmail.com
-<br>
 <strong>💻 Desenvolvedor Java Jr Full Stack - Instituto Proa </strong>
 <br>
 <strong>💻 Sistemas para Internet - Universidade Anhanguera <strong>
 <br>
 <strong>📚 Sempre em busca de novos conhecimentos <strong>
+<br>
+<strong>💬 E-mail para contato: joaomolinari61@gmail.com
+
  
 <hr>
  
@@ -19,11 +20,9 @@
 </div>
 
 <br>
-<br>
  
 Contatos: 
  <div>
- <a href = "https://mail.google.com/mail/u/1/#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-a-molinari-1b7350212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
  </div>
  
